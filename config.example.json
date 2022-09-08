@@ -1,0 +1,5 @@
+{
+    "flask_secret": "your_flask_app_secret",
+    "webhook_secret": "your_webhook_secret",
+    "command": "echo \"Webhook has been reached\"" 
+}
