@@ -4,7 +4,7 @@
 
 This project proposes the use of a Python flask server to validate the action of a [github webhook](https://docs.github.com/en/github-ae@latest/developers/webhooks-and-events/webhooks/creating-webhooks). The secret key given at the creation of the webhook is verified and allows the execution of the particular system command. For example, a bash script allowing a specific deployment.
 
-You can create your webhook project from : `https://github.com/${username}/${project}/settings/hooks`.
+You can create a webhook for your project from: `https://github.com/${username}/${project}/settings/hooks`.
 
 ## Installation
 
